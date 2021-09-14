@@ -1,0 +1,234 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WowAries\n"
+"POT-Creation-Date: 2017-05-17 16:00+0300\n"
+"PO-Revision-Date: 2017-05-17 16:00+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: comments.php:4
+#, php-format
+msgctxt "comments title"
+msgid "One thought on \"%2$s\""
+msgid_plural "%1$s thoughts on \"%2$s\""
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:22
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:24
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:27
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:33
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:30
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:31
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:65
+msgid "Portfolio"
+msgstr ""
+
+#: functions.php:66
+msgid "portfolio"
+msgstr ""
+
+#: functions.php:118 functions.php:127
+msgid "Logo"
+msgstr ""
+
+#: functions.php:128
+msgid "Image size: 180px x 50px"
+msgstr ""
+
+#: functions.php:135
+msgid "Default Header"
+msgstr ""
+
+#: functions.php:144
+msgid "Header Image"
+msgstr ""
+
+#: functions.php:157
+msgid "Home Intro Title"
+msgstr ""
+
+#: functions.php:169
+msgid "Home Subtitle"
+msgstr ""
+
+#: functions.php:175
+msgid "About me"
+msgstr ""
+
+#: functions.php:185 functions.php:237
+msgid "Title"
+msgstr ""
+
+#: functions.php:197 header-template-home.php:62
+msgid "Description"
+msgstr ""
+
+#: functions.php:209
+msgid "Button Link"
+msgstr ""
+
+#: functions.php:221
+msgid "Button Text"
+msgstr ""
+
+#: functions.php:227
+msgid "Social Area"
+msgstr ""
+
+#: functions.php:249
+msgid "Social Text"
+msgstr ""
+
+#: functions.php:261
+msgid "E-mail address"
+msgstr ""
+
+#: functions.php:273
+msgid "Twitter Link"
+msgstr ""
+
+#: functions.php:285
+msgid "Facebook Link"
+msgstr ""
+
+#: functions.php:297
+msgid "Google Link"
+msgstr ""
+
+#: functions.php:303
+msgid "Footer"
+msgstr ""
+
+#: functions.php:313
+msgid "Footer Text"
+msgstr ""
+
+#: header-single.php:72
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: header-template-home.php:61
+msgid "Page Sample"
+msgstr ""
+
+#: inc/bootstrap/wp_bootstrap_pagination.php:16
+msgid "<i class=\"glyphicon glyphicon-chevron-left\"></i>"
+msgstr ""
+
+#: inc/bootstrap/wp_bootstrap_pagination.php:17
+msgid "<i class=\"glyphicon glyphicon-chevron-right\"></i>"
+msgstr ""
+
+#: inc/bootstrap/wp_bootstrap_pagination.php:18
+#: inc/bootstrap/wp_bootstrap_pagination.php:64
+msgid "First"
+msgstr ""
+
+#: inc/bootstrap/wp_bootstrap_pagination.php:19
+#: inc/bootstrap/wp_bootstrap_pagination.php:86
+msgid "Last"
+msgstr ""
+
+#: inc/bootstrap/wp_bootstrap_pagination.php:66
+msgid "previous"
+msgstr ""
+
+#: inc/bootstrap/wp_bootstrap_pagination.php:82
+msgid "next"
+msgstr ""
+
+#: index.php:36
+msgid "Read More"
+msgstr ""
+
+#: index.php:47 page.php:30 single.php:44 template-home.php:49
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: template-home.php:15
+msgid "LIL' ABOUT ME"
+msgstr ""
+
+#: template-home.php:18
+msgid "Curriculum VITAE"
+msgstr ""
+
+#: template-home.php:59
+msgid "Author's Message"
+msgstr ""
+
+#: template-home.php:60
+msgid ""
+"If you like \"Aries\" template, we'd love to hear from you, whether it be "
+"feedback, thanks, new template ideas or even just to say hello, we welcome "
+"it all!"
+msgstr ""
+
+#: template-home.php:72
+msgid "Twitter"
+msgstr ""
+
+#: template-home.php:75
+msgid "Facebook"
+msgstr ""
+
+#: template-home.php:78
+msgid "Google+"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "WowAries"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.wowthemes.net/aries-free-html-bootstrap-template/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Personal WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WowThemesNet"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.wowthemes.net/"
+msgstr ""
